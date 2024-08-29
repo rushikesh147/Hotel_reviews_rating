@@ -5,6 +5,7 @@ The hospitality industry heavily relies on customer feedback to maintain and imp
 The goal of this project is to develop a machine learning model that can automatically classify hotel reviews as positive or negative based on the text of the reviews. Given a dataset of customer reviews and their corresponding ratings, the model should learn to understand the sentiment expressed in the text and accurately predict whether a review is positive or negative.
 
 Objectives:
+
 1.Data Preprocessing: Clean and preprocess the review text to remove noise, such as irrelevant information, stopwords, and special characters.
 
 2.Feature Extraction: Convert the textual data into numerical features using techniques such as TF-IDF, word embeddings, or other relevant methods.
